@@ -1,0 +1,117 @@
+E:\STUDY\C# theory\BakeryShopSln\BakeryShop\bin\Debug\BakeryShop.exe.config
+E:\STUDY\C# theory\BakeryShopSln\BakeryShop\bin\Debug\BakeryShop.exe
+E:\STUDY\C# theory\BakeryShopSln\BakeryShop\bin\Debug\BakeryShop.pdb
+E:\STUDY\C# theory\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.csproj.AssemblyReference.cache
+E:\STUDY\C# theory\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.AccountStatus.resources
+E:\STUDY\C# theory\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.Admin.resources
+E:\STUDY\C# theory\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.CategoryManagement.resources
+E:\STUDY\C# theory\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.EmployeeManagement.resources
+E:\STUDY\C# theory\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.Form1.resources
+E:\STUDY\C# theory\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.Properties.Resources.resources
+E:\STUDY\C# theory\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.Regestration.resources
+E:\STUDY\C# theory\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.SalesReport.resources
+E:\STUDY\C# theory\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.csproj.GenerateResource.cache
+E:\STUDY\C# theory\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.csproj.CoreCompileInputs.cache
+E:\STUDY\C# theory\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.exe
+E:\STUDY\C# theory\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.pdb
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\BakeryShop.exe.config
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\BakeryShop.exe
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\BakeryShop.pdb
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.csproj.AssemblyReference.cache
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.AccountStatus.resources
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.Admin.resources
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.CategoryManagement.resources
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.EmployeeManagement.resources
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.Properties.Resources.resources
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.Regestration.resources
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.SalesReport.resources
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.csproj.GenerateResource.cache
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.csproj.CoreCompileInputs.cache
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.exe
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.pdb
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Buffers.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Data.SqlClient.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Memory.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Text.Json.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Threading.Channels.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Data.SqlClient.Extensions.Abstractions.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Data.SqlClient.Internal.Logging.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Buffers.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Data.SqlClient.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Memory.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Text.Json.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Threading.Channels.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.csproj.Up2Date
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.Login.resources
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.ManagerDashboard.resources
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.ProductManagement.resources
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.EmployeeView.resources
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.SalesReportManager.resources
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.Cashier.resources
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.ProductList.resources
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.Cart.resources
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.Payment.resources
+C:\Users\User-Pc\Desktop\BakeryShopSln\BakeryShop\obj\Debug\BakeryShop.MakePayment.resources
